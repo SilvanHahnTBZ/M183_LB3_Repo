@@ -94,7 +94,7 @@ todo-list-node/
 ### 5.1 In den Docker-Ordner wechseln
 
 ```bash
-cd C:\Users\StartKlar\Documents\Project_M183\lb2-applikation\docker
+cd C:\Users\StartKlar\Documents\Project_M183\docker
 ```
 
 ### 5.2 Container starten
